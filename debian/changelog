@@ -1,3 +1,9 @@
+npm (3.5.2-0foreman1) zesty; urgency=medium
+
+  * Rebuild for Foreman
+
+ -- Michael Moll <mmoll@mmoll.at>  Fri, 21 Apr 2017 13:56:05 +0200
+
 npm (3.5.2-0ubuntu4) xenial; urgency=medium
 
   * Also make npm-cli.js executable. LP: #1523947
